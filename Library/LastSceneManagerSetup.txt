@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Minigames/Patraix/GuitarHero.unity
+  isLoaded: 1
+  isActive: 1
